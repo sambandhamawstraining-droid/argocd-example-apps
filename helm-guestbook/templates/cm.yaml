@@ -1,6 +1,10 @@
-apiVersion: v1
-data:
-  welcomemsg: helloWelcomeToCM
-kind: ConfigMap
-metadata:
-  name: test-configmap
+# apiVersion: v1
+# data:
+#   welcomemsg: helloWelcomeToCM
+# kind: ConfigMap
+# metadata:
+#   name: test-configmap
+
+
+
+### Hashing these value to check if pruning is working as expected
